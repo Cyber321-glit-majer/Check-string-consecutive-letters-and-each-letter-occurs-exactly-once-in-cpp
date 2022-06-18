@@ -2,14 +2,18 @@
 C++
 
 **PROBLEM STATEMENT**
+
 Given string str. The task is to check if the string contains consecutive letters and each letter occurs exactly once. 
 
 **INPUT:**
 dcab
+
 **OUTPUT:**
 Yes
+
 **INPUT:**
 abde
+
 **OUTPUT:**
 No
 
